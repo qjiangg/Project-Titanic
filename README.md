@@ -1,7 +1,3 @@
-Here’s a **README** for your **Titanic Data Analysis Project**:
-
----
-
 # Titanic Data Analysis Project
 
 ## Project Overview
